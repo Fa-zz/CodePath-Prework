@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://media.giphy.com/media/xmqZuWyCWc9efURUb7/giphy.gif
+![](Simulator Screen Recording - iPhone 14 Pro - 2024-02-01 at 12.20.22.gif)
 
 ## App Brainstorming (Step 4)
 
