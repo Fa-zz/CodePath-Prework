@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](Simulator Screen Recording - iPhone 14 Pro - 2024-02-01 at 12.20.22.gif)
+![](https://raw.githubusercontent.com/Fa-zz/CodePath-Prework/main/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20-%202024-02-01%20at%2012.20.22.gif)
 
 ## App Brainstorming (Step 4)
 
